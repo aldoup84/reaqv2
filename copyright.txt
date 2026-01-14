@@ -1,0 +1,27 @@
+COPYRIGHT NOTICE
+
+Project: REAQ
+Repository: https://github.com/aldoup84/reaq
+
+Copyright (c) 2026
+Aldo Uriarte-Portillo
+Ramón Zatarain-Cabada
+María Lucía Barrón-Estrada
+María Blanca Ibáñez-Espiga
+
+All original source code and original materials created specifically for this project
+are copyright (c) 2026 the copyright holders listed above and are released under the GPL v3.0 or later License.
+See the LICENSE file for the full license text.
+
+CONTRIBUTORS
+Additional contributors (if any) retain copyright to their contributions, which are also provided under the GNU GPL v3.0 or later License unless stated otherwise.
+
+THIRD-PARTY CONTENT
+This project may include or reference third-party assets and materials obtained from:
+- Unity Asset Store (© their respective publishers; licensed under the Unity Asset Store EULA and/or publisher terms)
+
+Third-party assets and dependencies (Unity Asset Store assets, SQLite, Firebase) are not covered by the GNU GPL v3.0 or later License.
+See THIRD_PARTY_NOTICES.md for licensing/terms, details, and required attributions.
+
+TRADEMARKS
+Unity® is a trademark of Unity Technologies. All other trademarks are the property of their respective owners.

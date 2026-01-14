@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LogIn.unity
+    guid: afca8874836f23f479d1385803a296ef
+  - enabled: 1
+    path: Assets/Scenes/menu2.unity
+    guid: da0fcbb99eda2ee40963c225ff4fbd4c
+  - enabled: 1
+    path: Assets/Scenes/IDElementos.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/ElecValencia.unity
+    guid: aab2196fbd6b158429c2ec9b9e7b869d
+  - enabled: 1
+    path: Assets/Scenes/Covalentes.unity
+    guid: dc0e75d5095a0234b8a7d08eed35273d
+  - enabled: 1
+    path: Assets/Scenes/Ionicos.unity
+    guid: e9b69fde23d55264ba9c880447df0550
+  - enabled: 1
+    path: Assets/Scenes/Metalicos.unity
+    guid: 5a5e1a556f6de1f4ba1d49ff72041a42
+  - enabled: 1
+    path: Assets/Scenes/CHONPS.unity
+    guid: e37fbddae807b7c488ccd4fc026c6b7c
+  - enabled: 1
+    path: Assets/Scenes/Reacciones2.unity
+    guid: 78bbcef1c3614a349afd1f6f139026c0
+  m_configObjects: {}

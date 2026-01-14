@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://unityfb-a1403.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">1030002467800</string>
+  <string name="google_storage_bucket" translatable="false">unityfb-a1403.appspot.com</string>
+  <string name="project_id" translatable="false">unityfb-a1403</string>
+  <string name="google_api_key" translatable="false">AIzaSyAdhfgSbeINGrWdw09BgZOjiVIJk1xzvDA</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAdhfgSbeINGrWdw09BgZOjiVIJk1xzvDA</string>
+  <string name="google_app_id" translatable="false">1:1030002467800:android:80f231796c6084f509c8ad</string>
+  <string name="default_web_client_id" translatable="false">1030002467800-vhk80nrj6i6blqod6qk8l87f50n6mf67.apps.googleusercontent.com</string>
+</resources>

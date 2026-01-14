@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Fosforo" size="1.000000 1.000000" />
+    <ImageTarget name="Cobre" size="1.000000 1.002398" />
+    <ImageTarget name="Estano" size="1.000000 1.002398" />
+    <ImageTarget name="Base" size="1.000000 1.001199" />
+    <ImageTarget name="Acido" size="1.000000 0.998802" />
+    <ImageTarget name="Fluor" size="1.000000 0.997608" />
+    <ImageTarget name="Molecula" size="1.000000 0.997608" />
+    <ImageTarget name="Estructura" size="1.000000 1.000000" />
+    <ImageTarget name="Informacion" size="1.000000 0.997608" />
+    <ImageTarget name="Azufre" size="1.000000 0.997608" />
+    <ImageTarget name="Calcio" size="1.000000 0.997608" />
+    <ImageTarget name="Carbono" size="1.000000 1.000000" />
+    <ImageTarget name="Cloro" size="1.000000 0.997608" />
+    <ImageTarget name="Cromo" size="1.000000 0.997608" />
+    <ImageTarget name="Hierro" size="1.000000 0.997608" />
+    <ImageTarget name="Mercurio" size="1.000000 0.997608" />
+    <ImageTarget name="Plata" size="1.000000 0.997608" />
+    <ImageTarget name="Plomo" size="1.000000 1.000000" />
+    <ImageTarget name="Potasio" size="1.000000 0.997608" />
+    <ImageTarget name="Zinc" size="1.000000 1.000000" />
+    <ImageTarget name="Litio" size="1.000000 0.997608" />
+    <ImageTarget name="Nitrogeno" size="1.000000 0.997608" />
+    <ImageTarget name="Magnesio" size="1.000000 1.000000" />
+    <ImageTarget name="Sodio" size="1.000000 0.997608" />
+    <ImageTarget name="Oxigeno" size="1.000000 0.997608" />
+    <ImageTarget name="Aluminio" size="1.000000 1.000000" />
+    <ImageTarget name="Hidrogeno" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>

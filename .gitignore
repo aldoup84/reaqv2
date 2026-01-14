@@ -1,0 +1,25 @@
+# Unity package archives (too large)
+Packages/*.tgz
+
+# Optional: if you want to ignore all cached packages
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+
+.DS_Store
+.vscode/
+.vs/
+
+*.apk
+*.aab
+*.keystore
+
+# Firebase / secrets
+google-services.json
+google-services-desktop.json
+GoogleService-Info.plist

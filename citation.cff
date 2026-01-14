@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the information below."
+title: "ReAQ"
+type: software
+version: "2.0.0"
+date-released: 2026-01-13
+license: GPL-3.0-or-later
+repository-code: "https://github.com/aldoup84/reaq2"
+url: "https://github.com/aldoup84/reaq2"
+doi: "10.5281/zenodo.18199831"
+abstract: >
+  Educational software developed with Unity 2019 to support teaching and learning activities.
+  The repository includes original source code (GPL-3.0-or-later) and references to third-party assets and
+  dependencies (Unity Asset Store assets, SQLite, Firebase) under their respective licenses/terms.
+keywords:
+  - education
+  - educational software
+  - unity
+  - unity3d
+  - serious games
+  - simulation
+  - interactive learning
+authors:
+  - family-names: "Uriarte-Portillo"
+    given-names: "Aldo"
+    email: "aldo.up@culiacan.tecnm.mx"
+    affiliation: "Instituto Tecnológico de Culiacán"
+  - family-names: "Zatarain-Cabada"
+    given-names: "Ramón"
+    email: "ramon.zc@culiacan.tecnm.mx"
+    affiliation: "Instituto Tecnológico de Culiacán"
+  - family-names: "Barrón-Estrada"
+    given-names: "María Lucía"
+    email: "lucia.be@culiacan.tecnm.mx"
+    affiliation: "Instituto Tecnológico de Culiacán"
+  - family-names: "Ibáñez-Espiga"
+    given-names: "María Blanca"
+    email: "mbi@it.uc3m.es"
+    affiliation: "Universidad Carlos III de Madrid"
+
+preferred-citation:
+  type: software
+  title: "ReAQ"
+  authors:
+    - family-names: "Uriarte-Portillo"
+      given-names: "Aldo"
+    - family-names: "Zatarain-Cabada"
+      given-names: "Ramón"
+    - family-names: "Barrón-Estrada"
+      given-names: "María Lucía"
+    - family-names: "Ibáñez-Espiga"
+      given-names: "María Blanca"
+  version: "2.0.0"
+  date-released: 2021-01-13
+  url: "https://github.com/aldoup84/reaq"
+  license: GPL-3.0-or-later
+
+notes: >
+  Third-party assets and dependencies (Unity Asset Store assets, SQLite, Firebase) are not covered
+  by GPL-3.0-or-later. See THIRD_PARTY_NOTICES.md for licensing/terms, details, and required attributions.
