@@ -1,5 +1,6 @@
 # ReAQ (Android)
-ReAQ es una herramienta de aprendizaje desarrollada en **Unity 2022.3 LTS** para enfocarse en aprender sobre enlaces químicos. Está diseñada y probada en dispositivos Android 13 o superior. 
+ReAQ es una herramienta de aprendizaje desarrollada en **Unity 2022.3 LTS** que implementa la tecnología de Realidad Aumentada basada en la detección de marcadores, centrada en el tema de enlaces químicos (iónicos, covalentes y metálicos). Esta herramienta de aprendizaje también le permite al usuario conocer los elementos químicos más importantes para los seres vivos. En su versión que integra Google Firebase, requiere de conexión a internet. ReAQ está diseñada y probada en dispositivos Android 13 o superior. 
+
 - **Plataforma:** Android (APK)
 - **Versión mínima de Android:** Android 13 o superior
 - **Licencia (código original):** GPL-3.0-or-later (see `LICENSE`)
